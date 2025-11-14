@@ -105,10 +105,10 @@ You can run this notebook either locally on your machine or in any Jupyter-based
 
 ### **Clinical Resistance**
 - #### **Rising resistance in key antibiotics**:
- **Ciprofloxacin** and **Azithromycin** show clear increases in MIC values over time in several regions (e.g. UK, USA, Canada, Japan). For many years, mean MICs exceed EUCAST resistance thresholds, confirming widespread resistance.
-**Azithromycin** resistance shows rising trends in the UK, USA, and Canada, with occasional extreme MIC outliers up to 512 mg/L.
+  **Ciprofloxacin** and **Azithromycin** show clear increases in MIC values over time in several regions (e.g. UK, USA, Canada, Japan). For many years, mean MICs exceed EUCAST resistance thresholds, confirming widespread resistance.
+  **Azithromycin** resistance shows rising trends in the UK, USA, and Canada, with occasional extreme MIC outliers up to 512 mg/L.
 - #### **Older antibiotics largely unusable**:
-   **Penicillin** and **Tetracycline** exhibit high MIC values and widespread high resistance levels, consistent with their removal from front-line treatment.
+  **Penicillin** and **Tetracycline** exhibit high MIC values and widespread high resistance levels, consistent with their removal from front-line treatment.
 - #### **Critical, but under pressure**:
   **Ceftriaxone** and **Cefixime** remain mostly effective, but creeping increases and occasional spikes highlight the importance of continued monitoring for these last-line treatments.
 
